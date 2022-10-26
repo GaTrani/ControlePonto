@@ -15,7 +15,7 @@ public class GerenciarControlePonto {
         gerente.setEmail("gabriel@gmail.com");
         gerente.setDocumento("999.999.999-9");
         gerente.setLogin("GaTrani");
-        gerente.setSenha("GaTrani");
+        gerente.setSenha("123");
 
         RegistroPonto gerente1 = new RegistroPonto();
         gerente1.setFunc(gerente);
