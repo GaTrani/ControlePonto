@@ -1,6 +1,9 @@
 import java.time.LocalDate;
 import java.time.LocalDateTime;
 
+//Gabriel Trani Avancini
+//Michelle Ferreira
+
 public class GerenciarControlePonto {
     public static void main(String[] args) throws InterruptedException {
         System.out.println("MEU CONTROLE DE PONTO");
